@@ -1,0 +1,1 @@
+aws s3 cp 5457_25.pdf s3://mkucian-test01/
